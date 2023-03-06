@@ -1,0 +1,12 @@
+{
+  "name": "cross-domain-node-server-demo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2",
+    "mockjs": "^1.1.0"
+  },
+  "scripts": {
+    "server": "node express.server.js"
+  }
+}
