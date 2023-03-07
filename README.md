@@ -15,5 +15,9 @@ git clone https://github.com/jakequc/cross-domain-node-react-demo
 
 pnpm/npm i
 
+# 配置你的 nginx 
+
 pnm run start
+
 ```
+访问 `http://127.0.0.1:3000/`
